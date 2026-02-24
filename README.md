@@ -1,4 +1,4 @@
-# Inventory-Stock-Control-System-
+
 # 📦 Inventory Stock Control System  
 
 ## 📖 Project Overview  
