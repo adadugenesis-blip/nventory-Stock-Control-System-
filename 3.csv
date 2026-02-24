@@ -1,0 +1,4 @@
+product_id,product_name,category_id,supplier_id,unit_price,quality_in_stock
+101,laptops,1,1,850000.00,15
+102,"Printer Paper",2,2,12000.00,200
+103,"Rice 25kg",3,3,38000.00,50

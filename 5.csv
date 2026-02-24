@@ -1,0 +1,4 @@
+transaction_id,product_id,transaction_type,quantity,transaction_date
+1,101,IN,5,2024-01-05
+2,102,OUT,20,2024-01-08
+3,103,IN,10,2024-01-12
